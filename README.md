@@ -22,6 +22,7 @@ This repository showcases various data analytics projects across multiple data s
 
 #### Creating Charts and Graphs with Matplotlib 
   <li>https://github.com/briannaso/Pyber_Analysis</li>
+  <li>https://github.com/briannaso/surfs_up</li>
 
 #### Mapping Earthquake Data with Javascript/HTML & CSS
   <li>https://github.com/briannaso/Mapping_Earthquakes</li>
